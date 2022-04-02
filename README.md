@@ -43,9 +43,9 @@ const App = () => {
 	// const [, setExample] = useShareStatesBetweenTabs('example');
 
 	const handle = (data) => setItems(data);
-
-    return (
-		<h1>{example}</h1>
+  
+  return (
+    <h1>{example}</h1>
 	);
 }
 ```
