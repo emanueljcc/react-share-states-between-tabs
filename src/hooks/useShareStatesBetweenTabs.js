@@ -1,5 +1,9 @@
 import { useState, useRef, useEffect } from 'react'
 
+/**
+ * {String} KEY name
+ * {*} value
+ */
 const useShareStatesBetweenTabs = (nameKey, value) => {
   const [state, setState] = useState(value)
   const isNewSession = useRef(true)
