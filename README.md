@@ -15,7 +15,7 @@
 </p>
 
 ## Description
-Share persistent state between tabs without redux using a custom hook
+Library for share persistent state between tabs without redux using a custom hook
 
 ## Install
 
