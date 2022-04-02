@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import useShareStatesBetweenTabs from './hooks/useShareStatesBetweenTabs'
 
-describe('ExampleComponent', () => {
+describe('Custom hook useShareStatesBetweenTabs', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(useShareStatesBetweenTabs).toBeTruthy()
   })
 })
