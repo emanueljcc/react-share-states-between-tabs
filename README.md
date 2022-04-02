@@ -36,17 +36,17 @@ import React from 'react'
 import useShareStatesBetweenTabs from 'react-share-states-between-tabs'
 
 const App = () => {
-	const [example, setExample] = useShareStatesBetweenTabs('example', 'iam example');
+  const [example, setExample] = useShareStatesBetweenTabs('example', 'iam example');
 
-	// You can also use separately if you wish.
-	// const [example,] = useShareStatesBetweenTabs('example');
-	// const [, setExample] = useShareStatesBetweenTabs('example');
+  // You can also use separately if you wish.
+  // const [example,] = useShareStatesBetweenTabs('example');
+  // const [, setExample] = useShareStatesBetweenTabs('example');
 
-	const handle = (data) => setItems(data);
+  const handle = (data) => setItems(data);
 
-    return (
-		<h1>{example}</h1>
-	);
+  return (
+    <h1>{example}</h1>
+  );
 }
 ```
 
