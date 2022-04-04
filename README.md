@@ -20,11 +20,11 @@ Library for share persistent state between tabs without redux using a custom hoo
 ## Install
 
 ```bash
-npm install --save react-share-states-between-tabs
+npm install react-share-states-between-tabs
 ```
 OR
 ```bash
-yarn add -D react-share-states-between-tabs
+yarn add react-share-states-between-tabs
 ```
 
 ## Usage
