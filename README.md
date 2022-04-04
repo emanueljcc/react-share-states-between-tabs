@@ -71,9 +71,11 @@ You can also send me a direct message on twitter
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Collaborators
-<a href="https://github.com/emanueljcc/react-share-states-between-tabs/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=emanueljcc/react-share-states-between-tabs" />
-</a>
+<p align='center'>
+  <a href="https://github.com/emanueljcc/react-share-states-between-tabs/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=emanueljcc/react-share-states-between-tabs" />
+  </a>
+</p>
 
 Made with [contrib.rocks](https://contrib.rocks).
 
