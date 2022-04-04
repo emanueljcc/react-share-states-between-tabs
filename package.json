@@ -1,6 +1,6 @@
 {
   "name": "react-share-states-between-tabs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://emanueljcc.github.io/react-share-states-between-tabs",
   "description": "Library for share persistent state between tabs without redux using a custom hook",
   "author": "emanueljcc",
